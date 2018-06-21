@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: normal 16px Helvetica, Arial, sans-serif;
+    background-color: lightgrey;
+}
+
